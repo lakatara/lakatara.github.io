@@ -6,5 +6,5 @@ layout: default
 
 ¡Soy una perrita hermosa!
 
-![](https://lakatara.github.io/assets/images/la_katara_main.jpg)
+![](https://lakatara.github.io/assets/images/la_katara_main.png)
 
